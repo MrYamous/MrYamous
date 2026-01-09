@@ -20,6 +20,10 @@ I was speaker for DevFest Strasbourg (France) in 2024.
 ![Static Badge](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)
 ![Static Badge](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
 
+### 🛠 My projects
+
+- [Livewire Route Attributes](https://github.com/MrYamous/livewire-route-attributes)
+
 ### 🛠 Projects i'm used to contribute
 
 - [Symfony](https://github.com/symfony/symfony)
