@@ -35,3 +35,9 @@ I was speaker for DevFest Strasbourg (France) in 2024.
 - [Laravel](https://github.com/laravel/framework)
 - [Tempest](https://github.com/tempestphp/tempest-framework)
 - [doctor-rst](https://github.com/OskarStark/doctor-rst)
+
+### My talks
+
+- DevFest Strasbourg 2024
+- Epitech Summit Marseille & Lyon 2026
+- Touraine Tech 2026
