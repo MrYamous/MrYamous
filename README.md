@@ -28,13 +28,14 @@ I was speaker for DevFest Strasbourg (France) in 2024.
 
 - [Symfony](https://github.com/symfony/symfony)
 - [Symfony documentation](https://github.com/symfony/symfony-docs)
-- [Livewire powergrid](https://github.com/Power-Components/livewire-powergrid)
+- [Rector symfony](https://github.com/rectorphp/rector-symfony)
 
 #### Other contributions
 
-- [Laravel](https://github.com/laravel/framework)
-- [Tempest](https://github.com/tempestphp/tempest-framework)
 - [doctor-rst](https://github.com/OskarStark/doctor-rst)
+- [Tempest](https://github.com/tempestphp/tempest-framework)
+- [Laravel](https://github.com/laravel/framework)
+- [Livewire powergrid](https://github.com/Power-Components/livewire-powergrid)
 
 ### My talks
 
