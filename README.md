@@ -7,7 +7,6 @@ I was speaker for DevFest Strasbourg (France) in 2024.
 
 ![Static Badge](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)
 ![Static Badge](https://img.shields.io/badge/Symfony-05122A?style=flat&logo=symfony)
-![Static Badge](https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel)
 ![Static Badge](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
 \
 ![Static Badge](https://img.shields.io/badge/SQL-05122A?style=flat)
@@ -36,6 +35,7 @@ I was speaker for DevFest Strasbourg (France) in 2024.
 - [Tempest](https://github.com/tempestphp/tempest-framework)
 - [Laravel](https://github.com/laravel/framework)
 - [Livewire powergrid](https://github.com/Power-Components/livewire-powergrid)
+- [Mautic](https://github.com/mautic/mautic)
 
 ### My talks
 
